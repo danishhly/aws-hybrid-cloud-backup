@@ -17,3 +17,6 @@ A disaster recovery automation tool that compresses critical local data on a Lin
 ##  Usage
 1. Configure AWS CLI: `aws configure`
 2. Run script: `./backup_to_cloud.sh`
+
+## Proof
+
