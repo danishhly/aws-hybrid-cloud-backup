@@ -19,5 +19,5 @@ A disaster recovery automation tool that compresses critical local data on a Lin
 2. Run script: `./backup_to_cloud.sh`
 
 ##  Proof
-![Screenahot](Screenshot from 2026-02-07 10-51-08.png)
+![Screenahot](https://github.com/danishhly/aws-hybrid-cloud-backup/blob/main/Screenshot%20from%202026-02-07%2010-51-08.png)
 
